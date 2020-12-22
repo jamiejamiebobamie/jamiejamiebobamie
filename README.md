@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamiejamiebobamie&label=Profile%20views&color=0e75b6&style=flat" alt="jamiejamiebobamie" /> </p>
 
-[![linkedin badge](https://img.shields.io/badge/Erica_Naglik-30302f?style=flat&logo=linkedin&color=0e75b6&)](https://www.linkedin.com/in/james-mccrory/)
+[![linkedin badge](https://img.shields.io/badge/Jamie_McCrory-30302f?style=flat&logo=linkedin&color=0e75b6&)](https://www.linkedin.com/in/james-mccrory/)
 
 [![resume badge](https://img.shields.io/badge/View_My_Resume-30302f?style=flat&color=0e75b6&)](https://cdn.filestackcontent.com/8udfoTnRVSjnVM29tSKt)
 
