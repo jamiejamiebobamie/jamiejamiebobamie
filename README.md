@@ -6,4 +6,5 @@
 ![Jamie's github stats](https://github-readme-stats.vercel.app/api?username=jamiejamiebobamie&hide=stars&theme=tokyonight&count_private=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamiejamiebobamie&" alt="jamiejamiebobamie" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiejamiebobamie)](https://github.com/anuraghazra/github-readme-stats)
