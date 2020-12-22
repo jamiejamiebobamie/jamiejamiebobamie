@@ -2,6 +2,8 @@
 <h1 align="center">Hi :wave:, I'm Jamie</h1>
 <h3 align="left">A software developer from Virginia! I have two Bachelor degrees, one in English and one in Applied Computer Science. I am interested in Game Design and love when tech and narrative intersect!</h3>
 <br>
-![Jamie's github stats](https://github-readme-stats.vercel.app/api?username=jamiejamiebobamie&hide=stars&theme=tokyonight&count_private=true)
+
+[Jamie's github stats](https://github-readme-stats.vercel.app/api?username=jamiejamiebobamie&hide=stars&theme=tokyonight&count_private=true)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamiejamiebobamie&show_icons=true&locale=en" alt="jamiejamiebobamie" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamiejamiebobamie&" alt="jamiejamiebobamie" /></p>
