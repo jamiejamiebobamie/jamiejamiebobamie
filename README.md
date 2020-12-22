@@ -1,4 +1,4 @@
-<div style="display:flex; justify-content:space-around;">
+<div style="display: flex; justify-content:space-around; background-color:red;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamiejamiebobamie&label=Profile%20views&color=0e75b6&style=flat" alt="jamiejamiebobamie" /> </p>
 
